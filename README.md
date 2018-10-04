@@ -1,7 +1,4 @@
-Data Mining Homework (CS419)
-
-This repository contains Java implementations of useful data mining algorithms.
-Also included are test files to validate the homework files.
+Java implementations of useful data mining algorithms. Test files included.
 
 Homework1:
 matrix multiplication, jaccard coefficient, cosine similarity, euclidean distance.
